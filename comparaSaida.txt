@@ -1,0 +1,180 @@
+Relatório Resumo do Ensalamento para o Teste Sem melhorias 1:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 41
+Espaços Livres: 275
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste com melhorias 1:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 41
+Espaços Livres: 275
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste Sem melhorias 2:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 43
+Espaços Livres: 280
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste com melhorias 2:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 43
+Espaços Livres: 280
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste Sem melhorias 3:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 38
+Espaços Livres: 264
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste com melhorias 3:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 38
+Espaços Livres: 264
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste Sem melhorias 4:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 38
+Espaços Livres: 213
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste com melhorias 4:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 38
+Espaços Livres: 213
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste Sem melhorias 5:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 39
+Espaços Livres: 235
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste com melhorias 5:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 39
+Espaços Livres: 235
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste Sem melhorias 6:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 39
+Espaços Livres: 256
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste com melhorias 6:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 39
+Espaços Livres: 256
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste Sem melhorias 7:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 37
+Espaços Livres: 266
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste com melhorias 7:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 37
+Espaços Livres: 266
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste Sem melhorias 8:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 43
+Espaços Livres: 348
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste com melhorias 8:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 43
+Espaços Livres: 348
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste Sem melhorias 9:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 38
+Espaços Livres: 173
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste com melhorias 9:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 38
+Espaços Livres: 173
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste Sem melhorias 10:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 39
+Espaços Livres: 249
+
+
+---------------------------------------------
+
+Relatório Resumo do Ensalamento para o Teste com melhorias 10:
+Total de Salas: 50
+Total de Turmas: 50
+Turmas Alocadas: 39
+Espaços Livres: 249
+
+
+---------------------------------------------
+
